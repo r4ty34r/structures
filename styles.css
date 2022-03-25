@@ -1,0 +1,56 @@
+body {
+    background-color: white;
+    color: black;
+}
+
+a {
+    color: beige;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.banner {
+    background-color: navy;
+    text-align: center;
+    height: 200px;
+    width: 100%;
+    color: white;
+    padding: 10px;
+
+}
+
+.link1 {
+    margin: 1px;
+}
+
+.infobox {
+    width: 30%;
+    background-color: grey;
+    color: black;
+}
+
+.img1 {
+    height: 350px;
+    width: 500px;
+    margin-right: 0px;
+    margin-left: 15%;
+}
+
+.img2 {
+    height: 350px;
+    width: 500px;
+    margin-left: 0px;
+    padding: 0px;
+}
+
+
+.img {
+    background-color: beige;
+    padding: 10px;
+    align-self: center;
+    width: 100%;
+    margin-top: 5px;
+
+}
