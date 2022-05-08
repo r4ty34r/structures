@@ -1,0 +1,18 @@
+body {
+    background-color: lightcyan;
+    color: black;
+    font-family: serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    margin-left: 25px;
+}
+
+.list {
+    background-color: beige;
+    color: black;
+}
